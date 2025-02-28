@@ -5,8 +5,8 @@ RES = (WIN_WIDTH, WIN_HEIGHT)
 
 class Game:
     
-    WIN_HEIGHT = 1000
-    WIN_WIDTH = 600
+    WIN_HEIGHT = 980
+    WIN_WIDTH = 980
     
     def __init__(self, FPS):
         self.title = "Cheesburger Game"
